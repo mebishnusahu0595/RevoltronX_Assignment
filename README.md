@@ -22,7 +22,7 @@ The **Smart Restaurant Recommender** is a personalized restaurant recommendation
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/smart-restaurant-recommender.git
+   git clone https://github.com/mebishnusahu0595/smart-restaurant-recommender.git
    cd smart-restaurant-recommender
    ```
 2. Create a virtual environment (optional but recommended):
